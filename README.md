@@ -1,8 +1,10 @@
-Alain Houantome
-Cybersecurity Professional || SOC Monitoring || SIEM || Threat Intelligence || Incident Response||
+Hello, I'm Alain Houantome
+Cybersecurity Professional | SOC Monitoring | SIEM | Threat Intelligence | Incident Response|
+.Passionate about cybersecurity, threat dection,and risk management
+.Certified in Google Cybersecurity Professional certificate & TryHackMe SOC Level 1.
+.Aspiring SOC Analyst with hands-on experience in log analysis, incident response and security tools.
+.interested in open-source security projects and continous learning.
 www.linkedin.com/in/alain.houantome
-
-Passionate about securing systems, Threats detecting, and mitigating vulnerabilities
 <!--
 **AHouantome/AHouantome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
