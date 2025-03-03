@@ -1,5 +1,7 @@
-## Hi there 👋
+Alain HOuantome
+Cybersecurity Professional || SOC Monitoring || SIEM || Threat Intelligence || Incident Response||
 
+Passionate about securing systems, Threats detecting, and mitigating vulnerabilities
 <!--
 **AHouantome/AHouantome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
