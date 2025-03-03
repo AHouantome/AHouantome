@@ -1,6 +1,6 @@
 Alain Houantome
 Cybersecurity Professional || SOC Monitoring || SIEM || Threat Intelligence || Incident Response||
-linkedin.com/in/alain.houantome
+linkedin
 
 Passionate about securing systems, Threats detecting, and mitigating vulnerabilities
 <!--
