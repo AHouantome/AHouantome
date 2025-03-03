@@ -36,7 +36,7 @@
 ##🏆 **Certifications**
 ✔️ **Google Cybersecurity Professional Certificate**
 ✔️**ThryHackMe SOC Level 1**
-✔️**Cybersecurity Fundamental Project Based (HAGITAL CONSULTING)*
+✔️**Cybersecurity Fundamental Project Based (HAGITAL CONSULTING)**
 ✔️*More in progress...*
 
 ---
